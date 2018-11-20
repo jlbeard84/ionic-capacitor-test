@@ -1,0 +1,6 @@
+{
+  "appId": "com.jlbeard.captest",
+  "appName": "testApp",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
